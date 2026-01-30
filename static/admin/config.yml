@@ -1,8 +1,6 @@
-local_backend: true
-
 backend:
-  name: git-gateway
-  branch: main
+  name: github
+  repo: booklice/testtest
 
 media_folder: "static/assets"
 public_folder: "/assets"
