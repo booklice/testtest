@@ -1,8 +1,8 @@
 ---
-title: test
-date: 2024-09-24T22:39:53+09:00
+title: testt
+date: 2026-01-30T17:44:00
 ---
+
 ![](/assets/linux.png)
 
-
-
+hihi
